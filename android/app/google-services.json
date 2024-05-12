@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289520619023",
+    "project_id": "djani-gpt",
+    "storage_bucket": "djani-gpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289520619023:android:da210299bdcac5e2969d7a",
+        "android_client_info": {
+          "package_name": "com.example.iut_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2PRjrVOuBm0D0LAZABC6jynuiA1L_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
